@@ -3,32 +3,44 @@ body{
 	font-family: Arial;
 }
 
-div{
+#page{
 	background-color: #FFF;
 	padding: 10px;
 	border-radius: 30px;
+	padding-bottom: 50px;
+}
+#content{
+	padding: 0px 300px;
+}
+
+#sidebar{
+	float: left;
+	padding-left: 90px;
+	text-align: right;
+	padding-top: 50px;
+
 }
 
 p{
-	text-align: center;
+	text-align: left;
 }
 
 h1{
 	text-align: center;
+	padding-right: 200px;
 }
 
-ol, ul {
+#sidebar ol, ul {
 	list-style: none;
-	text-align: center;
 }
 
-a, a:active, a:visited {
+#sidebar a, a:active, a:visited {
 	text-decoration: none;
 	padding: 2px;
 	border-radius: 8px;
 	color: #900;
 }
-a:hover {
+#sidebar a:hover {
 	background-color: #839496;
 	color: #000000;
 }
