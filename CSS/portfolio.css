@@ -1,0 +1,18 @@
+body{
+	background-color: #800;
+	font-family: Arial;
+}
+
+div{
+	background-color: #FFF;
+	padding: 10px;
+	border-radius: 30px;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
