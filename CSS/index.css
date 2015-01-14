@@ -7,9 +7,26 @@ div{
 	background-color: #FFF;
 	padding: 10px;
 	border-radius: 30px;
+}
+
+p{
 	text-align: center;
 }
 
 h1{
 	text-align: center;
+}
+
+ol, ul {
+	list-style: none;
+	text-align: center;
+}
+
+a, a:active, a:visited {
+	text-decoration: none;
+	padding-bottom: 2px;
+}
+a:hover {
+	background-color: #839496;
+	color: #000000;
 }
