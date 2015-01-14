@@ -1,11 +1,13 @@
 body{
 	background-color: #78BDFA;
+	font-family: Arial;
 }
 
 div{
 	background-color: #FFF
 	padding: 10px;
 	border-radius: 30px;
+	text-align: center;
 }
 
 h1{
